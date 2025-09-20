@@ -15,7 +15,6 @@ Configure PostgreSQL and update application.properties with DB credentials.
 Run: mvn spring-boot:run
 
 2. Frontend (Angular)
-   
 Install dependencies: npm install
 Start the app: ng serve
 
